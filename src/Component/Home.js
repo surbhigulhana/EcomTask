@@ -114,7 +114,7 @@ const Home = () => {
                             <section class="home">
                                 <div class="content">
                                     <h3>Biggest Clothe Sale
-                                        <br /> <span>Up To 50% Off</span>
+                                        <br /> <span>Up To 60% Off</span>
                                     </h3>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque culpa, totam sed maxime animi facilis!</p>
                                     <button id="shopnow">Shop Now</button>
