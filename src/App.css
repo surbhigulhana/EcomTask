@@ -18,7 +18,7 @@
 }
 .top-icons i{
   font-size: 20px;
-  color: #04165d;
+  color: #50C878;
   margin-left: 10px;
   cursor: pointer;
 }
@@ -27,15 +27,15 @@
 }
 
 .other-links i{
-  color: #04165d;
+  color: #50C878;
   font-size: 20px;
   margin-left: 10px;
   cursor: pointer;
 }
 #btn-login{
   width: 100px;
-  border: 2px solid #04165d;
-  color: #04165d;
+  border: 2px solid #50C878;
+  color: #50C878;
   font-weight: bold;
   border-radius: 5px;
   height: 5vh;
@@ -44,21 +44,21 @@
 }
 #btn-login a{
   text-decoration: none;
-  color: #04165d;
+  color: #50C878;
   transition: 0.5s ease;
 }
 #btn-login a:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 #btn-login:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 #btn-signup{
   width: 100px;
-  border: 2px solid #04165d;
-  color: #04165d;
+  border: 2px solid #50C878;
+  color: #50C878;
   font-weight: bold;
   border-radius: 5px;
   height: 5vh;
@@ -67,15 +67,15 @@
 }
 #btn-signup a{
   text-decoration: none;
-  color: #04165d;
+  color: #50C878;
   transition: 0.5s ease;
 }
 #btn-signup a:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 #btn-signup:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 @media screen and (max-width:500px){
@@ -155,14 +155,14 @@
 /* navbar */
 #navbar1{
   margin-top:0px;
-  background-color: #04165d;
+  background-color: #50C878;
   font-size: 16px;
   font-family: 'Roboto Slab', serif;
 }
 #navbar{
   width: 100%;
   margin-top: 44px;
-  background-color: #04165d;
+  background-color: #50C878;
   font-size: 16px;
   font-family: 'Roboto Slab', serif;
 }
@@ -194,7 +194,7 @@
   border:  1px solid white;
 }
 #search-btn:hover{
-  background-color: #04165d;
+  background-color: #50C878;
 }
 /* navbar */
 /* home content */
@@ -221,7 +221,7 @@
   margin-left: 70px;
   font-size: 50px;
   text-shadow: 1px 1px 1px black;
-  color: #04165d;
+  color: #50C878;
   font-weight: bold;
 }
 .content h3 span{
@@ -229,19 +229,19 @@
 }
 .content p{
   margin-left: 70px;
-  color: #04165d;
+  color: #50C878;
 }
 .content #shopnow{
   margin-left: 70px;
   width: 200px;
   height: 38px;
-  border: 2px solid #04165d;
+  border: 2px solid #50C878;
   font-weight: bold;
   transition: 0.5s ease;
   cursor: pointer;
 }
 .content #shopnow:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 @media screen and (max-width:800px){
@@ -289,7 +289,7 @@
   height: 40vh;
 }
 #top-cards h5{
-  color: #04165d;
+  color: #50C878;
   font-weight: bold;
 }
 #top-cards button{
@@ -298,13 +298,13 @@
   font-weight: bold;
   letter-spacing: 3px;
   background: transparent;
-  color: #04165d;
-  border: 2px solid #04165d;
+  color: #50C878;
+  border: 2px solid #50C878;
   transition: 0.5s ease;
   cursor: pointer;
 }
 #top-cards button:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 /* top cards */
@@ -340,7 +340,7 @@
   cursor: pointer;
 }
 #bannerbtn button:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   border: none;
 }
 /* banner */
@@ -375,7 +375,7 @@
   cursor: pointer;
 }
 #bannerbtn2 button:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   border: none;
 }
 /* banner2 */
@@ -390,7 +390,7 @@
 }
 #product-cards h1{
   margin-top: 30px;
-  color: #04165d;
+  color: #50C878;
   text-shadow: 1px 1px 1px black;
 }
 .carousel-control-prev-icon ,.carousel-control-next-icon {
@@ -398,13 +398,13 @@
 }
 #product-cards h3{
   letter-spacing: 3px;
-  color: #04165d;
+  color: #50C878;
   text-shadow: 0px 1px 1px black;
   font-weight: bold;
 }
 #product-cards h5 span{
   float: right;
-  color: #04165d;
+  color: #50C878;
   cursor: pointer;
 }
 .checked{
@@ -418,15 +418,15 @@
   margin-top: 30px;
   width: 200px;
   height: 32px;
-  color: #04165d;
+  color: #50C878;
   letter-spacing: 5px;
   font-weight: bold;
   background: transparent;
-  border: 2px solid #04165d;
+  border: 2px solid #50C878;
   transition: 0.5s ease;
 }
 #viewmorebtn:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 #dflex{
@@ -453,12 +453,12 @@
 }
 #offer i{
   font-size: 60px;
-  color: #04165d;
+  color: #50C878;
 } */
 /* offer */
 .flex-container i{
   font-size: 60px;
-  color: #04165d;
+  color: #50C878;
 }
 .flex-container h5{
   color: black;
@@ -484,12 +484,12 @@
   padding: 0 0 30px 0;
   color: #d0d0d0;
   font-size: 14px;
-  background: #04165d;
+  background: #50C878;
   font-family: 'Roboto Slab', serif;
 }
 #footer .footer-top{
   padding: 60px 0 30px;
-  background: #04165d;
+  background: #50C878;
   color: white;
 }
 #footer .footer-top .footer-contact h3{
@@ -562,7 +562,7 @@ html{
 }
 .arrow{
   position: fixed;
-  background-color: #04165d;
+  background-color: #50C878;
   border-radius: 50px;
   height: 50px;
   bottom: 40px;
@@ -578,7 +578,7 @@ html{
   font-family: 'Roboto Slab', serif;
 }
 #side1{
-  background-color: #04165d;
+  background-color: #50C878;
   height: 76vh;
   border-radius: 5px;
   box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
@@ -616,7 +616,7 @@ html{
 }
 #side2 h3{
   margin-top: 50px;
-  color: #04165d;
+  color: #50C878;
   font-weight: bold;
 }
 #side2 .inp{
@@ -643,7 +643,7 @@ html{
   width: 200px;
   height: 32px;
   color: white;
-  background-color: #04165d;
+  background-color: #50C878;
   border: none;
   font-weight: bold;
 }
@@ -666,7 +666,7 @@ html{
 #about h1{
   text-align: center;    
   font-weight: bold;
-  color: #04165d;
+  color: #50C878;
 }
 /* about */
 
@@ -675,7 +675,7 @@ html{
   margin-top: 50px;
 }
 #contact h1{
-  color: #04165d;
+  color: #50C878;
   text-shadow: 0px 0px 1px black;
 }
 #contact .card{
@@ -687,7 +687,7 @@ html{
   margin-top: 10px;
   margin-left: 10px;
   font-size: 15px;
-  color: #04165d;
+  color: #50C878;
   font-weight: bold;
   letter-spacing: 3px;
 }
@@ -696,20 +696,20 @@ html{
   margin-top: 10px;
   letter-spacing: 3px;
   font-weight: bold;
-  color: #04165d;
+  color: #50C878;
 }#messagebtn button{
   margin-top: 30px;
   width: 200px;
   height: 33px;
   background: transparent;
-  border: 2px solid #04165d;
-  color: #04165d;
+  border: 2px solid #50C878;
+  color: #50C878;
   font-weight: bold;
   letter-spacing: 3px;
   transition: 0.5s ease;
 }
 #messagebtn button:hover{
-  background-color: #04165d;
+  background-color: #50C878;
   color: white;
 }
 /* contact */
@@ -851,7 +851,7 @@ ol.c {
   padding: 20px;
   overflow-x: hidden;
   overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
-  background-color: #04165d;
+  background-color: #50C878;
   border-right: 1px solid #eee;
   }
   .gs{
@@ -1207,14 +1207,14 @@ margin-top: 30px;
 }
 #side1{
   margin-top: 10px;
-  background-color: #04165d;
+  background-color: #50C878;
   height: 36vh;
   border-radius: 5px;
   box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
 }
 #side2 h3{
   margin-top: 10px;
-  color: #04165d;
+  color: #50C878;
   font-weight: bold;
 }
 #side2 p{
@@ -1250,7 +1250,7 @@ width: 34%;
   padding: 20px;
   overflow-x: hidden;
   overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
-  background-color: #04165d;
+  background-color: #50C878;
   border-right: 1px solid #eee;
   }
   
@@ -1344,7 +1344,7 @@ background-color: none;
 }
 /* #navbar{
   margin-top: 64px;
-  background-color: #04165d;
+  background-color: #50C878;
   font-size: 16px;
   font-family: 'Roboto Slab', serif;
 } */
@@ -1375,7 +1375,7 @@ width: 34%;
   padding: 20px;
   overflow-x: hidden;
   overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
-  background-color: #04165d;
+  background-color: #50C878;
   border-right: 1px solid #eee;
   }
   

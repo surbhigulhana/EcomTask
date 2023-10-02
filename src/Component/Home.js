@@ -332,7 +332,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <div class="container" id="product-cards">
+            {/* <div class="container" id="product-cards">
                 <h1 class="text-center">PRODUCT</h1>
                 <div class="row" id='as3' style=
                     {{ marginTop: "30px;" }}>
@@ -380,7 +380,7 @@ const Home = () => {
                 <br /><br />
 
                 <a href="clothe.html" id="viewmorebtn">View More</a>
-            </div>
+            </div> */}
 
             <div class="container" style={{ marginTop: "100px;" }}>
                 <hr />
