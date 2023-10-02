@@ -29,33 +29,19 @@ const Signup = () => {
                                 <li class="nav-item">
                                     <a class="nav-link active" aria-current="page" href="/">Home</a>
                                 </li>
-                              
-                                <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                        Category
-                                    </a>
-                                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown" style={{ backgroundColor: "#1c1c50;" }}>
-                                        <li><a class="dropdown-item" href="/CategoryOne">T-Shirt</a></li>
 
-                                        <li><a class="dropdown-item" href="/CategoryOne">Pants</a></li>
-                                        <li><a class="dropdown-item" href="/CategoryOne">Cap</a></li>
-                                        <li><a class="dropdown-item" href="/CategoryOne">Lowers</a></li>
-                                        <li><a class="dropdown-item" href="/CategoryOne">Glasess</a></li>
-                                    </ul>
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="/CategoryOne">Product</a>
                                 </li>
+                               
 
                                 <li class="nav-item">
                                     <a class="nav-link" href="/Contact">Contact</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="/Myorder">MyOrder</a>
-                                </li>
+                               
                             </ul>
 
-                            <form class="d-flex">
-                                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />&nbsp;&nbsp;
-                                <button class="btn btn-outline-success" type="submit" id="search-btn">Search</button>
-                            </form>
+                           
                         </div>
                     </div>
                 </nav>
