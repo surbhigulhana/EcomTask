@@ -11,6 +11,7 @@ In the project directory, you can run:
 2)npm start
 Runs the app in the development mode.\
 Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
+when you click on Product which is show top of navbar then you redirect to n ew page which is product page ,where we show all product and using search box we cna search product by product name also 
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
