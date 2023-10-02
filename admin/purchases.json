@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://5.imimg.com/data5/BG/UM/MY-23375112/61.jpg",
+    "name": "Nike",
+    "average_rating": 3.8,
+    "price": 29.99
+  },
+  {
+    "image": "https://5.imimg.com/data5/BG/UM/MY-23375112/61.jpg",
+    "name": "Nike",
+    "average_rating": 3.8,
+    "price": 29.99
+  },
+  {
+    "image": "https://pngimg.com/uploads/tshirt/tshirt_PNG5454.png",
+    "name": "Allen Solly",
+    "average_rating": 4.2,
+    "price": 39.99
+  },
+  {
+    "image": "https://i.pinimg.com/originals/2f/bb/66/2fbb6650a2b6b07aee93909b1f248e24.png",
+    "name": "Adidas",
+    "average_rating": 4,
+    "price": 59.99
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "image": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
+    "name": "Tommy Hilfiger",
+    "average_rating": 4.5,
+    "price": 49.99
+  },
+  {
+    "image": "https://5.imimg.com/data5/BG/UM/MY-23375112/61.jpg",
+    "name": "Nike",
+    "average_rating": 3.8,
+    "price": 29.99
+  },
+  {
+    "image": "https://pngimg.com/uploads/tshirt/tshirt_PNG5454.png",
+    "name": "Allen Solly",
+    "average_rating": 4.2,
+    "price": 39.99
+  },
+  {
+    "image": "https://i.pinimg.com/originals/2f/bb/66/2fbb6650a2b6b07aee93909b1f248e24.png",
+    "name": "Adidas",
+    "average_rating": 4.0,
+    "price": 59.99
+  },
+  {
+    "image": "https://fullyfilmy.in/cdn/shop/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1639657077",
+    "name": "Van Heusen",
+    "average_rating": 4.8,
+    "price": 79.99
+  },
+
+  {
+    "image": "https://m.media-amazon.com/images/I/61YbxHhHQEL._AC_UY1100_.jpg",
+    "name": "Calvin Klein",
+    "average_rating": 4.5,
+    "price": 49.9
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpS_IptE9rekxtY66d7VvyaRKwXXlrUiy8iZwjjOx5690Q6mq5zsGtdSsRFzQlYC3eZXM&usqp=CAU",
+    "name": "Diesel",
+    "average_rating": 3.8,
+    "price": 29.99
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1295946641/photo/dark-blue-jeans-isolated-on-white-background-faded-white-spots-on-the-waist-and-legs-area.jpg?s=612x612&w=0&k=20&c=HSHY7kUMyVUsu2to8G2cLxhbBYTykIPZYvhXDtuOGU8=",
+    "name": "Pepe Jeans",
+    "average_rating": 4.2,
+    "price": 39.99
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRWwlAhtjejrbTpUCm1CR8usmbZ1mjzIvjt0UQtTEb3onN-EwuUtbKP-dLU0GTdeY6IM&usqp=CAU",
+    "name": "Lee",
+    "average_rating": 4.0,
+    "price": 59.99
+  },
+  {
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/2/IQ/GW/JJ/52856400/denim-cotton-jeans-500x500.JPG",
+    "name": "Spykar",
+    "average_rating": 4.8,
+    "price": 79.99
+  },
+  {
+    "image": "https://media.istockphoto.com/id/1451763647/photo/blue-baseball-cap.webp?b=1&s=170667a&w=0&k=20&c=HREHiXMb0uJhybTXz6uaJEhQi3Ji1j_p2AUxJrI1g6c=",
+    "name": "Puma",
+    "average_rating": 4.5,
+    "price": 59.99
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/71hJpBtWr9L._SL1500_.jpg",
+    "name": "FabSeasons",
+    "average_rating": 3.8,
+    "price": 22.99
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/716mEQLdYCL._AC_UY1100_.jpg",
+    "name": "Nike",
+    "average_rating": 4.2,
+    "price": 19.99
+  },
+  {
+    "image": "https://media.istockphoto.com/id/497600473/photo/black-baseball-hat.jpg?s=612x612&w=0&k=20&c=eqNaP-Lfj_3PIxyw8uZONkHvSpzxN2M_hFnuSghMn00=",
+    "name": "Oulm",
+    "average_rating": 4.1,
+    "price": 39.99
+  },
+  {
+    "image": "https://www.bigheadcaps.com/assets/images/blankcaps/meshcaps/356_1.jpg",
+    "name": "Jockey",
+    "average_rating": 4.2,
+    "price": 29.99
+  }
+]
